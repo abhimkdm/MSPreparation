@@ -12,7 +12,7 @@
 
 # dependencies
 /node_modules
-/vs
+/.vs
 
 # profiling files
 chrome-profiler-events*.json

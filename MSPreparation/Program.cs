@@ -19,8 +19,11 @@ namespace MSPreparation
             //var instanace = SingletonPattern.Instance;
 
             //03. Pass by Value vs pass by Reference parameters
-            var refvalPar = new RefValParameters();
-            refvalPar.RefVal();
+            //var refvalPar = new RefValParameters();
+            //refvalPar.RefVal();
+
+            //04. Reverse the given string “ABC” without using inbuilt methods.
+            ReveseString reveseString = new ReveseString();
 
             Console.ReadKey();
         }

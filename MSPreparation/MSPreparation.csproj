@@ -63,6 +63,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Programs\ArmStrongNumber.cs" />
     <Compile Include="Programs\RefValParameters.cs" />
+    <Compile Include="Programs\ReveseString.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
