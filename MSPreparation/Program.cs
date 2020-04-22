@@ -23,7 +23,10 @@ namespace MSPreparation
             //refvalPar.RefVal();
 
             //04. Reverse the given string “ABC” without using inbuilt methods.
-            ReveseString reveseString = new ReveseString();
+            //ReveseString reveseString = new ReveseString();
+
+            //05. Write palindrome logic without using inbuilt for integer 1221 or "1221"?
+            Palindrome palindrome = new Palindrome(); 
 
             Console.ReadKey();
         }

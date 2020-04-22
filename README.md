@@ -7,3 +7,4 @@ Let's prepare for MicroSoft. This project consist of ans for following questions
 04. Find the duplicate records in a SQL Table
 05. Find records which are not duplicate in a SQL Table
 06. Reverse the given string “ABC” without using inbuilt methods.
+07. Write palindrome logic without using inbuilt for integer 1221 or "1221"
