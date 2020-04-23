@@ -26,7 +26,11 @@ namespace MSPreparation
             //ReveseString reveseString = new ReveseString();
 
             //05. Write palindrome logic without using inbuilt for integer 1221 or "1221"?
-            Palindrome palindrome = new Palindrome(); 
+            // Palindrome palindrome = new Palindrome(); 
+
+            //06. Programs related to Arrays.
+            OnArrays onArrays = new OnArrays();
+            onArrays.CompareTwoArrays();
 
             Console.ReadKey();
         }

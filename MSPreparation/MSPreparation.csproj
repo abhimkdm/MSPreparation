@@ -62,9 +62,11 @@
     <Compile Include="General\SingletonPattern.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Programs\ArmStrongNumber.cs" />
+    <Compile Include="Programs\OnArrays.cs" />
     <Compile Include="Programs\Palindrome.cs" />
     <Compile Include="Programs\RefValParameters.cs" />
     <Compile Include="Programs\ReveseString.cs" />
+    <Compile Include="Programs\SortAlgo\BubbleSort.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
